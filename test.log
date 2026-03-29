@@ -1,0 +1,501 @@
+2026-03-28 23:50:45,948 - INFO - GET Request: https://jsonplaceholder.typicode.com/users/1
+2026-03-28 23:50:46,370 - INFO - Status Code: 200
+2026-03-28 23:50:46,370 - INFO - Response: {
+  "id": 1,
+  "name": "Leanne Graham",
+  "username": "Bret",
+  "email": "Sincere@april.biz",
+  "address": {
+    "street": "Kulas Light",
+    "suite": "Apt. 556",
+    "city": "Gwenborough",
+    "zipcode": "92998-3874",
+    "geo": {
+      "lat": "-37.3159",
+      "lng": "81.1496"
+    }
+  },
+  "phone": "1-770-736-8031 x56442",
+  "website": "hildegard.org",
+  "company": {
+    "name": "Romaguera-Crona",
+    "catchPhrase": "Multi-layered client-server neural-net",
+    "bs": "harness real-time e-markets"
+  }
+}
+2026-03-28 23:50:46,373 - INFO - GET Request: https://jsonplaceholder.typicode.com/users/2
+2026-03-28 23:50:46,707 - INFO - Status Code: 200
+2026-03-28 23:50:46,707 - INFO - Response: {
+  "id": 2,
+  "name": "Ervin Howell",
+  "username": "Antonette",
+  "email": "Shanna@melissa.tv",
+  "address": {
+    "street": "Victor Plains",
+    "suite": "Suite 879",
+    "city": "Wisokyburgh",
+    "zipcode": "90566-7771",
+    "geo": {
+      "lat": "-43.9509",
+      "lng": "-34.4618"
+    }
+  },
+  "phone": "010-692-6593 x09125",
+  "website": "anastasia.net",
+  "company": {
+    "name": "Deckow-Crist",
+    "catchPhrase": "Proactive didactic contingency",
+    "bs": "synergize scalable supply-chains"
+  }
+}
+2026-03-28 23:50:46,710 - INFO - GET Request: https://jsonplaceholder.typicode.com/users/3
+2026-03-28 23:50:47,046 - INFO - Status Code: 200
+2026-03-28 23:50:47,046 - INFO - Response: {
+  "id": 3,
+  "name": "Clementine Bauch",
+  "username": "Samantha",
+  "email": "Nathan@yesenia.net",
+  "address": {
+    "street": "Douglas Extension",
+    "suite": "Suite 847",
+    "city": "McKenziehaven",
+    "zipcode": "59590-4157",
+    "geo": {
+      "lat": "-68.6102",
+      "lng": "-47.0653"
+    }
+  },
+  "phone": "1-463-123-4447",
+  "website": "ramiro.info",
+  "company": {
+    "name": "Romaguera-Jacobson",
+    "catchPhrase": "Face to face bifurcated interface",
+    "bs": "e-enable strategic applications"
+  }
+}
+2026-03-28 23:50:47,049 - INFO - GET Request: https://jsonplaceholder.typicode.com/users/4
+2026-03-28 23:50:47,386 - INFO - Status Code: 200
+2026-03-28 23:50:47,386 - INFO - Response: {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+}
+2026-03-29 00:03:12,310 - INFO - test log
+2026-03-29 00:06:38,300 - INFO - GET Request: https://jsonplaceholder.typicode.com/users/1
+2026-03-29 00:06:38,666 - INFO - Status Code: 200
+2026-03-29 00:06:38,666 - INFO - Response: {
+  "id": 1,
+  "name": "Leanne Graham",
+  "username": "Bret",
+  "email": "Sincere@april.biz",
+  "address": {
+    "street": "Kulas Light",
+    "suite": "Apt. 556",
+    "city": "Gwenborough",
+    "zipcode": "92998-3874",
+    "geo": {
+      "lat": "-37.3159",
+      "lng": "81.1496"
+    }
+  },
+  "phone": "1-770-736-8031 x56442",
+  "website": "hildegard.org",
+  "company": {
+    "name": "Romaguera-Crona",
+    "catchPhrase": "Multi-layered client-server neural-net",
+    "bs": "harness real-time e-markets"
+  }
+}
+2026-03-29 00:06:38,670 - INFO - GET Request: https://jsonplaceholder.typicode.com/users/2
+2026-03-29 00:06:39,010 - INFO - Status Code: 200
+2026-03-29 00:06:39,010 - INFO - Response: {
+  "id": 2,
+  "name": "Ervin Howell",
+  "username": "Antonette",
+  "email": "Shanna@melissa.tv",
+  "address": {
+    "street": "Victor Plains",
+    "suite": "Suite 879",
+    "city": "Wisokyburgh",
+    "zipcode": "90566-7771",
+    "geo": {
+      "lat": "-43.9509",
+      "lng": "-34.4618"
+    }
+  },
+  "phone": "010-692-6593 x09125",
+  "website": "anastasia.net",
+  "company": {
+    "name": "Deckow-Crist",
+    "catchPhrase": "Proactive didactic contingency",
+    "bs": "synergize scalable supply-chains"
+  }
+}
+2026-03-29 00:06:39,014 - INFO - GET Request: https://jsonplaceholder.typicode.com/users/3
+2026-03-29 00:06:39,352 - INFO - Status Code: 200
+2026-03-29 00:06:39,352 - INFO - Response: {
+  "id": 3,
+  "name": "Clementine Bauch",
+  "username": "Samantha",
+  "email": "Nathan@yesenia.net",
+  "address": {
+    "street": "Douglas Extension",
+    "suite": "Suite 847",
+    "city": "McKenziehaven",
+    "zipcode": "59590-4157",
+    "geo": {
+      "lat": "-68.6102",
+      "lng": "-47.0653"
+    }
+  },
+  "phone": "1-463-123-4447",
+  "website": "ramiro.info",
+  "company": {
+    "name": "Romaguera-Jacobson",
+    "catchPhrase": "Face to face bifurcated interface",
+    "bs": "e-enable strategic applications"
+  }
+}
+2026-03-29 00:06:39,355 - INFO - GET Request: https://jsonplaceholder.typicode.com/users/4
+2026-03-29 00:06:39,698 - INFO - Status Code: 200
+2026-03-29 00:06:39,698 - INFO - Response: {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+}
+2026-03-29 00:09:02,837 - INFO - GET Request: https://jsonplaceholder.typicode.com/users/1
+2026-03-29 00:09:03,206 - INFO - Status Code: 200
+2026-03-29 00:09:03,206 - INFO - Response: {
+  "id": 1,
+  "name": "Leanne Graham",
+  "username": "Bret",
+  "email": "Sincere@april.biz",
+  "address": {
+    "street": "Kulas Light",
+    "suite": "Apt. 556",
+    "city": "Gwenborough",
+    "zipcode": "92998-3874",
+    "geo": {
+      "lat": "-37.3159",
+      "lng": "81.1496"
+    }
+  },
+  "phone": "1-770-736-8031 x56442",
+  "website": "hildegard.org",
+  "company": {
+    "name": "Romaguera-Crona",
+    "catchPhrase": "Multi-layered client-server neural-net",
+    "bs": "harness real-time e-markets"
+  }
+}
+2026-03-29 00:09:03,209 - INFO - GET Request: https://jsonplaceholder.typicode.com/users/2
+2026-03-29 00:09:03,549 - INFO - Status Code: 200
+2026-03-29 00:09:03,549 - INFO - Response: {
+  "id": 2,
+  "name": "Ervin Howell",
+  "username": "Antonette",
+  "email": "Shanna@melissa.tv",
+  "address": {
+    "street": "Victor Plains",
+    "suite": "Suite 879",
+    "city": "Wisokyburgh",
+    "zipcode": "90566-7771",
+    "geo": {
+      "lat": "-43.9509",
+      "lng": "-34.4618"
+    }
+  },
+  "phone": "010-692-6593 x09125",
+  "website": "anastasia.net",
+  "company": {
+    "name": "Deckow-Crist",
+    "catchPhrase": "Proactive didactic contingency",
+    "bs": "synergize scalable supply-chains"
+  }
+}
+2026-03-29 00:09:03,552 - INFO - GET Request: https://jsonplaceholder.typicode.com/users/3
+2026-03-29 00:09:03,884 - INFO - Status Code: 200
+2026-03-29 00:09:03,884 - INFO - Response: {
+  "id": 3,
+  "name": "Clementine Bauch",
+  "username": "Samantha",
+  "email": "Nathan@yesenia.net",
+  "address": {
+    "street": "Douglas Extension",
+    "suite": "Suite 847",
+    "city": "McKenziehaven",
+    "zipcode": "59590-4157",
+    "geo": {
+      "lat": "-68.6102",
+      "lng": "-47.0653"
+    }
+  },
+  "phone": "1-463-123-4447",
+  "website": "ramiro.info",
+  "company": {
+    "name": "Romaguera-Jacobson",
+    "catchPhrase": "Face to face bifurcated interface",
+    "bs": "e-enable strategic applications"
+  }
+}
+2026-03-29 00:09:03,887 - INFO - GET Request: https://jsonplaceholder.typicode.com/users/4
+2026-03-29 00:09:04,227 - INFO - Status Code: 200
+2026-03-29 00:09:04,227 - INFO - Response: {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+}
+2026-03-29 00:12:39,800 - INFO - GET Request: https://jsonplaceholder.typicode.com/users/1
+2026-03-29 00:12:40,155 - INFO - Status Code: 200
+2026-03-29 00:12:40,155 - INFO - Response: {
+  "id": 1,
+  "name": "Leanne Graham",
+  "username": "Bret",
+  "email": "Sincere@april.biz",
+  "address": {
+    "street": "Kulas Light",
+    "suite": "Apt. 556",
+    "city": "Gwenborough",
+    "zipcode": "92998-3874",
+    "geo": {
+      "lat": "-37.3159",
+      "lng": "81.1496"
+    }
+  },
+  "phone": "1-770-736-8031 x56442",
+  "website": "hildegard.org",
+  "company": {
+    "name": "Romaguera-Crona",
+    "catchPhrase": "Multi-layered client-server neural-net",
+    "bs": "harness real-time e-markets"
+  }
+}
+2026-03-29 00:12:40,158 - INFO - GET Request: https://jsonplaceholder.typicode.com/users/2
+2026-03-29 00:12:40,496 - INFO - Status Code: 200
+2026-03-29 00:12:40,497 - INFO - Response: {
+  "id": 2,
+  "name": "Ervin Howell",
+  "username": "Antonette",
+  "email": "Shanna@melissa.tv",
+  "address": {
+    "street": "Victor Plains",
+    "suite": "Suite 879",
+    "city": "Wisokyburgh",
+    "zipcode": "90566-7771",
+    "geo": {
+      "lat": "-43.9509",
+      "lng": "-34.4618"
+    }
+  },
+  "phone": "010-692-6593 x09125",
+  "website": "anastasia.net",
+  "company": {
+    "name": "Deckow-Crist",
+    "catchPhrase": "Proactive didactic contingency",
+    "bs": "synergize scalable supply-chains"
+  }
+}
+2026-03-29 00:12:40,499 - INFO - GET Request: https://jsonplaceholder.typicode.com/users/3
+2026-03-29 00:12:40,840 - INFO - Status Code: 200
+2026-03-29 00:12:40,840 - INFO - Response: {
+  "id": 3,
+  "name": "Clementine Bauch",
+  "username": "Samantha",
+  "email": "Nathan@yesenia.net",
+  "address": {
+    "street": "Douglas Extension",
+    "suite": "Suite 847",
+    "city": "McKenziehaven",
+    "zipcode": "59590-4157",
+    "geo": {
+      "lat": "-68.6102",
+      "lng": "-47.0653"
+    }
+  },
+  "phone": "1-463-123-4447",
+  "website": "ramiro.info",
+  "company": {
+    "name": "Romaguera-Jacobson",
+    "catchPhrase": "Face to face bifurcated interface",
+    "bs": "e-enable strategic applications"
+  }
+}
+2026-03-29 00:12:40,842 - INFO - GET Request: https://jsonplaceholder.typicode.com/users/4
+2026-03-29 00:12:41,227 - INFO - Status Code: 200
+2026-03-29 00:12:41,227 - INFO - Response: {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+}
+2026-03-29 00:12:44,178 - INFO - GET Request: https://jsonplaceholder.typicode.com/users/1
+2026-03-29 00:12:44,524 - INFO - Status Code: 200
+2026-03-29 00:12:44,524 - INFO - Response: {
+  "id": 1,
+  "name": "Leanne Graham",
+  "username": "Bret",
+  "email": "Sincere@april.biz",
+  "address": {
+    "street": "Kulas Light",
+    "suite": "Apt. 556",
+    "city": "Gwenborough",
+    "zipcode": "92998-3874",
+    "geo": {
+      "lat": "-37.3159",
+      "lng": "81.1496"
+    }
+  },
+  "phone": "1-770-736-8031 x56442",
+  "website": "hildegard.org",
+  "company": {
+    "name": "Romaguera-Crona",
+    "catchPhrase": "Multi-layered client-server neural-net",
+    "bs": "harness real-time e-markets"
+  }
+}
+2026-03-29 00:12:44,527 - INFO - GET Request: https://jsonplaceholder.typicode.com/users/2
+2026-03-29 00:12:44,869 - INFO - Status Code: 200
+2026-03-29 00:12:44,869 - INFO - Response: {
+  "id": 2,
+  "name": "Ervin Howell",
+  "username": "Antonette",
+  "email": "Shanna@melissa.tv",
+  "address": {
+    "street": "Victor Plains",
+    "suite": "Suite 879",
+    "city": "Wisokyburgh",
+    "zipcode": "90566-7771",
+    "geo": {
+      "lat": "-43.9509",
+      "lng": "-34.4618"
+    }
+  },
+  "phone": "010-692-6593 x09125",
+  "website": "anastasia.net",
+  "company": {
+    "name": "Deckow-Crist",
+    "catchPhrase": "Proactive didactic contingency",
+    "bs": "synergize scalable supply-chains"
+  }
+}
+2026-03-29 00:12:44,872 - INFO - GET Request: https://jsonplaceholder.typicode.com/users/3
+2026-03-29 00:12:45,216 - INFO - Status Code: 200
+2026-03-29 00:12:45,216 - INFO - Response: {
+  "id": 3,
+  "name": "Clementine Bauch",
+  "username": "Samantha",
+  "email": "Nathan@yesenia.net",
+  "address": {
+    "street": "Douglas Extension",
+    "suite": "Suite 847",
+    "city": "McKenziehaven",
+    "zipcode": "59590-4157",
+    "geo": {
+      "lat": "-68.6102",
+      "lng": "-47.0653"
+    }
+  },
+  "phone": "1-463-123-4447",
+  "website": "ramiro.info",
+  "company": {
+    "name": "Romaguera-Jacobson",
+    "catchPhrase": "Face to face bifurcated interface",
+    "bs": "e-enable strategic applications"
+  }
+}
+2026-03-29 00:12:45,218 - INFO - GET Request: https://jsonplaceholder.typicode.com/users/4
+2026-03-29 00:12:45,620 - INFO - Status Code: 200
+2026-03-29 00:12:45,620 - INFO - Response: {
+  "id": 4,
+  "name": "Patricia Lebsack",
+  "username": "Karianne",
+  "email": "Julianne.OConner@kory.org",
+  "address": {
+    "street": "Hoeger Mall",
+    "suite": "Apt. 692",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "geo": {
+      "lat": "29.4572",
+      "lng": "-164.2990"
+    }
+  },
+  "phone": "493-170-9623 x156",
+  "website": "kale.biz",
+  "company": {
+    "name": "Robel-Corkery",
+    "catchPhrase": "Multi-tiered zero tolerance productivity",
+    "bs": "transition cutting-edge web services"
+  }
+}
