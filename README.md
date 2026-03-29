@@ -48,4 +48,7 @@ pytest
 ## Generate Report
 pytest --html=report.html --self-contained-html
 
+# API Testing Advanced Framework (Python)
+
+[![API Tests Advanced](https://github.com/RickHammett03/api-testing-advanced/actions/workflows/tests.yml/badge.svg)](https://github.com/RickHammett03/api-testing-advanced/actions/workflows/tests.yml)
 
